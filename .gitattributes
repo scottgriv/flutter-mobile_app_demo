@@ -3,4 +3,7 @@
 *.h linguist-detectable=false
 *.swift linguist-detectable=false
 *.html linguist-detectable=false
+*.cmake linguist-detectable=false
+*.h linguist-detectable=false
+*.kt linguist-detectable=false
 *.dart linguist-detectable=true
