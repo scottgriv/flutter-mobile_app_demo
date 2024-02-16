@@ -15,7 +15,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 **Repository Tier:** Bronze <br>
 **Technology:** Flutter, Dart, Android Studio, Xcode, Windows, Mac, iOS, Android <br>
 **Category:** Mobile Application, Web Application, Desktop Application <br>
-**Order:** 0 <br>
+**Order:** 38 <br>
 
 ## Parameters
 
