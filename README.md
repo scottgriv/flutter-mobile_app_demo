@@ -108,8 +108,8 @@ flutter run
 ```
 
 > [!TIP]
-> You may need to rename the base folder from "flutter-mobile_app_demo" to "flutter_mobile_app_demo" to avoid any issues with the Flutter CLI.
-> Flutter doesn't like the hyphens...**_but I do._**
+> You may need to rename the base folder from "flutter-mobile*app_demo" to "flutter_mobile_app_demo" to avoid any issues with the Flutter CLI.
+> Flutter doesn't like the hyphens...\*\*\_but I do.*\*\*
 
 ## Resources
 
