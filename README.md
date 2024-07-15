@@ -3,8 +3,7 @@
 <div align="center">
     <a href="https://github.com/scottgriv/flutter-mobile_app_demo" target="_blank">
         <img src="./docs/images/icon.png" width="125" height="125"/> <br />
-        <img src="./docs/images/ios.png" width="150" height="150" />
-        <img src="./docs/images/android.png" width="125" height="125" />
+        <img src="./docs/images/ios.png" width="150" height="150" /><img src="./docs/images/android.png" width="125" height="125" />
     </a>
 </div>
 <br>
@@ -18,11 +17,12 @@
     <a href="https://prgportfolio.com" target="_blank"><img src="https://img.shields.io/badge/PRG-Bronze Project-CD7F32?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iMjYuMDAwMDAwcHQiIGhlaWdodD0iMzQuMDAwMDAwcHQiIHZpZXdCb3g9IjAgMCAyNi4wMDAwMDAgMzQuMDAwMDAwIgogcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCI+Cgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwzNC4wMDAwMDApIHNjYWxlKDAuMTAwMDAwLC0wLjEwMDAwMCkiCmZpbGw9IiNDRDdGMzIiIHN0cm9rZT0ibm9uZSI+CjxwYXRoIGQ9Ik0xMiAzMjggYy04IC04IC0xMiAtNTEgLTEyIC0xMzUgMCAtMTA5IDIgLTEyNSAxOSAtMTQwIDQyIC0zOCA0OAotNDIgNTkgLTMxIDcgNyAxNyA2IDMxIC0xIDEzIC03IDIxIC04IDIxIC0yIDAgNiAyOCAxMSA2MyAxMyBsNjIgMyAwIDE1MCAwCjE1MCAtMTE1IDMgYy04MSAyIC0xMTkgLTEgLTEyOCAtMTB6IG0xMDIgLTc0IGMtNiAtMzMgLTUgLTM2IDE3IC0zMiAxOCAyIDIzCjggMjEgMjUgLTMgMjQgMTUgNDAgMzAgMjUgMTQgLTE0IC0xNyAtNTkgLTQ4IC02NiAtMjAgLTUgLTIzIC0xMSAtMTggLTMyIDYKLTIxIDMgLTI1IC0xMSAtMjIgLTE2IDIgLTE4IDEzIC0xOCA2NiAxIDc3IDAgNzIgMTggNzIgMTMgMCAxNSAtNyA5IC0zNnoKbTExNiAtMTY5IGMwIC0yMyAtMyAtMjUgLTQ5IC0yNSAtNDAgMCAtNTAgMyAtNTQgMjAgLTMgMTQgLTE0IDIwIC0zMiAyMCAtMTgKMCAtMjkgLTYgLTMyIC0yMCAtNyAtMjUgLTIzIC0yNiAtMjMgLTIgMCAyOSA4IDMyIDEwMiAzMiA4NyAwIDg4IDAgODggLTI1eiIvPgo8L2c+Cjwvc3ZnPgo=" alt="Bronze" /></a>
 </p>
 
----------------
+---
 
 <h1 align="center">Flutter Mobile App Demo</h1>
 
 A simple Flutter "Hello World" demo application. One codebase written in `Dart` for many platforms.
+
 - Demonstrates Flutter's ability to create a single codebase for iOS, Android, MacOS, and Web.
 
 <div align="center">
@@ -60,7 +60,7 @@ A simple Flutter "Hello World" demo application. One codebase written in `Dart` 
     <i>Web...and more!</i>
 </div>
 
----------------
+---
 
 ## Table of Contents
 
@@ -71,39 +71,45 @@ A simple Flutter "Hello World" demo application. One codebase written in `Dart` 
 
 ## Getting Started
 
-> [!IMPORTANT] 
+> [!IMPORTANT]
 > Before beginning, make sure you install Flutter and Dart on your machine.
 > Also, install Xcode and Android Studio to run the app on iOS and Android simulators.
 
 1. Clone the repo.
+
 ```bash
 git clone https://github.com/scottgriv/flutter-mobile_app_demo.git
 ```
 
 2. Install Flutter and Dart:
+
 ```bash
 brew install flutter
 brew install dart
 ```
 
 3. Install Xcode and Android Studio
+
 ```bash
 brew install --cask xcode
 brew install --cask android-studio
 ```
 
 4. Run Flutter Doctor to check for any issues
+
 ```bash
 flutter doctor
 ```
 
 5. Run the app
+
 ```bash
 flutter run
 ```
+
 > [!TIP]
 > You may need to rename the base folder from "flutter-mobile_app_demo" to "flutter_mobile_app_demo" to avoid any issues with the Flutter CLI.
-> Flutter doesn't like the hyphens...***but I do.***
+> Flutter doesn't like the hyphens...**_but I do._**
 
 ## Resources
 
@@ -114,7 +120,8 @@ flutter run
 
 ## License
 
-This project is released under the terms of **The Unlicense**, which allows you to use, modify, and distribute the code as you see fit. 
+This project is released under the terms of **The Unlicense**, which allows you to use, modify, and distribute the code as you see fit.
+
 - [The Unlicense](https://choosealicense.com/licenses/unlicense/) removes traditional copyright restrictions, giving you the freedom to use the code in any way you choose.
 - For more details, see the [LICENSE](LICENSE) file in this repository.
 
@@ -125,7 +132,7 @@ This project is released under the terms of **The Unlicense**, which allows you 
 **Website:** [scottgrivner.dev](https://www.scottgrivner.dev) <br>
 **Reference:** [Main Branch](https://github.com/scottgriv/flutter-mobile_app_demo) <br>
 
----------------
+---
 
 <div align="center">
     <a href="https://scottgrivner.dev" target="_blank">
