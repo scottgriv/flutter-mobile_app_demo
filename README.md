@@ -2,7 +2,9 @@
 
 <div align="center">
     <a href="https://github.com/scottgriv/flutter-mobile_app_demo" target="_blank">
-        <img src="./docs/images/icon.png" width="150" height="150"/>
+        <img src="./docs/images/icon.png" width="125" height="125"/> <br />
+        <img src="./docs/images/ios.png" width="150" height="150" />
+        <img src="./docs/images/android.png" width="125" height="125" />
     </a>
 </div>
 <br>
